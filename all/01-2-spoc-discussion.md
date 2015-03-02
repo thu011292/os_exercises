@@ -6,9 +6,9 @@
 
 分析你所认识的操作系统（Windows、Linux、FreeBSD、Android、iOS）所具有的独特和共性的功能？
 - [x] 
- 
->  共性：具备图形界面，支持多任务机制。
->  独特：Windows和iOS相对封闭，而linux和Android则相对开放。
+
+>   共性：具备图形界面，支持多任务机制。
+>   独特：Windows和iOS相对封闭，而linux和Android则相对开放。
 
 请总结你认为操作系统应该具有的特征有什么？并对其特征进行简要阐述。
 - [x]  
